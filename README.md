@@ -42,7 +42,7 @@
 
 ## 🚧 Currently Working On
 
-### 👉 [CloStyle](https://github.com/DudeAdr/CloStyle)
+### 👉 University Engineering project
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=1E90FF&reversal=true&section=footer" width="100%" />
