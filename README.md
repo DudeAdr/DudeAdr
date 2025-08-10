@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,java,python,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,java,python,git,github,azure" alt="My Skills" />
   </a>
 </div>
 
