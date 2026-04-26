@@ -44,7 +44,7 @@
 
 ## 🚧 Currently Working On
 
-### 👉 University Engineering project
+### 👉 An API for managing hiking and walking routes in Iceland, allowing users to create, retrieve, update, and organize trail paths.
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=1E90FF&reversal=true&section=footer" width="100%" />
