@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1E90FF&text=💻%20Junior%20.NET%20Developer&reversal=true&fontAlign=50&fontAlignY=36&animation=fadeIn&fontSize=40&fontColor=E0FFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1E90FF&text=💻%20Junior%20Software%20Engineer&reversal=true&fontAlign=50&fontAlignY=36&animation=fadeIn&fontSize=40&fontColor=E0FFFF" width="100%" />
 
 <p align="center">
   <strong>Hello! 👋</strong><br><br>
